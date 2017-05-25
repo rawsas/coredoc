@@ -1,12 +1,12 @@
 var dir_2859e15e51f6c6d2e053742ba62d0d87 =
 [
-    [ "mm_assigndirectlib.sas", "dd/dad/mm__assigndirectlib_8sas.html", null ],
-    [ "mm_assignlib.sas", "df/dc0/mm__assignlib_8sas.html", null ],
-    [ "mm_createstp.sas", "dd/dae/mm__createstp_8sas.html", null ],
-    [ "mm_getdirectories.sas", "db/dae/mm__getdirectories_8sas.html", null ],
-    [ "mm_getgroupmembers.sas", "dd/da4/mm__getgroupmembers_8sas.html", null ],
-    [ "mm_getgroups.sas", "d8/daa/mm__getgroups_8sas.html", null ],
-    [ "mm_getlibs.sas", "d3/d9b/mm__getlibs_8sas.html", null ],
-    [ "mm_getstps.sas", "db/d75/mm__getstps_8sas.html", null ],
-    [ "mm_gettree.sas", "d6/df3/mm__gettree_8sas.html", null ]
+    [ "mm_assigndirectlib.sas", "mm__assigndirectlib_8sas.html", "mm__assigndirectlib_8sas" ],
+    [ "mm_assignlib.sas", "mm__assignlib_8sas.html", "mm__assignlib_8sas" ],
+    [ "mm_createstp.sas", "mm__createstp_8sas.html", "mm__createstp_8sas" ],
+    [ "mm_getdirectories.sas", "mm__getdirectories_8sas.html", "mm__getdirectories_8sas" ],
+    [ "mm_getgroupmembers.sas", "mm__getgroupmembers_8sas.html", "mm__getgroupmembers_8sas" ],
+    [ "mm_getgroups.sas", "mm__getgroups_8sas.html", "mm__getgroups_8sas" ],
+    [ "mm_getlibs.sas", "mm__getlibs_8sas.html", "mm__getlibs_8sas" ],
+    [ "mm_getstps.sas", "mm__getstps_8sas.html", "mm__getstps_8sas" ],
+    [ "mm_gettree.sas", "mm__gettree_8sas.html", "mm__gettree_8sas" ]
 ];
