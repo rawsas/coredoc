@@ -6,14 +6,17 @@ var dir_56b51739d0e73e992ab6e8e3629dd22d =
     [ "mf_existvarlist.sas", "mf__existvarlist_8sas.html", "mf__existvarlist_8sas" ],
     [ "mf_getattrn.sas", "mf__getattrn_8sas.html", "mf__getattrn_8sas" ],
     [ "mf_getengine.sas", "mf__getengine_8sas.html", "mf__getengine_8sas" ],
+    [ "mf_getkeyvalue.sas", "mf__getkeyvalue_8sas.html", "mf__getkeyvalue_8sas" ],
     [ "mf_getquotedstr.sas", "mf__getquotedstr_8sas.html", "mf__getquotedstr_8sas" ],
     [ "mf_getuser.sas", "mf__getuser_8sas.html", "mf__getuser_8sas" ],
+    [ "mf_getvarcount.sas", "mf__getvarcount_8sas.html", "mf__getvarcount_8sas" ],
     [ "mf_getvarformat.sas", "mf__getvarformat_8sas.html", "mf__getvarformat_8sas" ],
     [ "mf_getvarlist.sas", "mf__getvarlist_8sas.html", "mf__getvarlist_8sas" ],
     [ "mf_getvarnum.sas", "mf__getvarnum_8sas.html", "mf__getvarnum_8sas" ],
     [ "mf_getvartype.sas", "mf__getvartype_8sas.html", "mf__getvartype_8sas" ],
     [ "mf_mkdir.sas", "mf__mkdir_8sas.html", "mf__mkdir_8sas" ],
     [ "mf_nobs.sas", "mf__nobs_8sas.html", "mf__nobs_8sas" ],
+    [ "mf_uid.sas", "mf__uid_8sas.html", "mf__uid_8sas" ],
     [ "mf_verifymacvars.sas", "mf__verifymacvars_8sas.html", "mf__verifymacvars_8sas" ],
     [ "mf_wordsinstr1butnotstr2.sas", "mf__wordsinstr1butnotstr2_8sas.html", "mf__wordsinstr1butnotstr2_8sas" ],
     [ "mp_binarycopy.sas", "mp__binarycopy_8sas.html", "mp__binarycopy_8sas" ],
@@ -21,5 +24,8 @@ var dir_56b51739d0e73e992ab6e8e3629dd22d =
     [ "mp_dropmembers.sas", "mp__dropmembers_8sas.html", "mp__dropmembers_8sas" ],
     [ "mp_ds2cards.sas", "mp__ds2cards_8sas.html", "mp__ds2cards_8sas" ],
     [ "mp_getmaxvarlengths.sas", "mp__getmaxvarlengths_8sas.html", "mp__getmaxvarlengths_8sas" ],
-    [ "mp_searchdata.sas", "mp__searchdata_8sas.html", "mp__searchdata_8sas" ]
+    [ "mp_lib2cards.sas", "mp__lib2cards_8sas.html", "mp__lib2cards_8sas" ],
+    [ "mp_perflog.sas", "mp__perflog_8sas.html", "mp__perflog_8sas" ],
+    [ "mp_searchdata.sas", "mp__searchdata_8sas.html", "mp__searchdata_8sas" ],
+    [ "mp_setkeyvalue.sas", "mp__setkeyvalue_8sas.html", "mp__setkeyvalue_8sas" ]
 ];

@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "Core", "index.html", [
+  [ "CORE", "index.html", [
     [ "Files", null, [
       [ "File List", "files.html", "files" ]
     ] ]
@@ -10,8 +10,8 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "dir_2859e15e51f6c6d2e053742ba62d0d87.html",
-"mm__assignlib_8sas.html#a30467b1dec89ba4714905eed4c11b38a",
-"mp__dirlist_8sas.html#ad288825273ed7192429ab0474fb2d4a0"
+"mm__assigndirectlib_8sas.html#a99771fc7d7e484fa88cee0f5e375f620",
+"mp__binarycopy_8sas.html#a00f414ac967ba60b633bceba2ee4cf9a"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
